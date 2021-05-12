@@ -12,7 +12,6 @@
 
 ## Getting Started
 
-* npm
   ```sh
   # Install dependencies
   npm install
